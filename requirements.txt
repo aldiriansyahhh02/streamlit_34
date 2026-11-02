@@ -1,0 +1,8 @@
+Pandas==3.0.5
+Scikit-learn==1.9.1
+Feature-engine==1.9.4
+Imbalanced-learn==0.14.2
+Category-Encoders==2.11.1
+FastAPI==0.162.0
+Uvicorn==0.54.0
+Plotly==7.1.0
